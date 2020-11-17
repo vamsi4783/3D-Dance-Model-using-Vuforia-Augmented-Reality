@@ -21,3 +21,4 @@ Import your database to your project
 select ARCamera in Hierarchy and Go To Inspector --> Click on Open Vuforia Engine Configuration --> In the License Key, Delete the Previous license Key And give your Created License in the Vuforia Developer Portal
 # Step :-10
 Now, Select the Image Traget in the Hierachy Window-->Go to Inspector -->Goto Image Target Behaviour(script)-->Database -->Choose your Database -->In the ImageTarget Section select your Image Target.
+
