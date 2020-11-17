@@ -1,5 +1,6 @@
 # 3D-Dance-Model-using-Vuforia-Augmented-Reality
 # Unity 2019.3.0f1 LTS or Later
+# Note : Extract Assets and Library Folder after Downloading the Project
 By scanning the Image Target to your mobile camera we augmented the 3D dance Model and created some UI elements to change the Dance Styles of a 3D model.
 # Steps Required:
 # Step 1 :- 
