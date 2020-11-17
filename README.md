@@ -18,7 +18,7 @@ By scanning the Image Target to your mobile camera we augmented the 3D dance Mod
 # 
 7.Import your database to your project 
 #
-8.select ARCamera in Hierarchy and Go To Inspector --> Click on Open Vuforia Engine Configuration --> In the License Key, Delete the Previous license Key And give your Created License in the Vuforia Developer Portal
+8.Select ARCamera in Hierarchy and Go To Inspector --> Click on Open Vuforia Engine Configuration --> In the License Key, Delete the Previous license Key And give your Created License in the Vuforia Developer Portal
 #
 9.Now, Select the Image Traget in the Hierachy Window-->Go to Inspector -->Goto Image Target Behaviour(script)-->Database -->Choose your Database -->In the ImageTarget Section select your Image Target.
 
