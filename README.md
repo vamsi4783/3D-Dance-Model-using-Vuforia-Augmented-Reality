@@ -12,9 +12,9 @@ By scanning the Image Target to your mobile camera we augmented the 3D dance Mod
 #
 4.Create your License Key by clicking on ->Develop -->Get LicenseKey
 # 
-5.Create your Image Database by clicking on Target MAnager --> Add DataBase
+5.Create your Image Database by clicking on Target MAnager --> Add DataBase and click on download Database
 #
-6.Download and Projec in Unity 2019.3.0f1 LTS or Later
+6.Download and Open the Project in Unity 2019.3.0f1 LTS or Later
 # 
 7.Import your database to your project 
 #
